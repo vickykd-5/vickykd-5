@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vivek and I'm a Data Analyst .<br><br>I'm driven by a desire to keep learning and becoming a little better every day. I enjoy picking up new skills, challenging myself with unfamiliar problems, and building solutions that make work simpler and more effective. For me, growth isn't just about advancing a career—it's about continuously evolving as a professional and as a person.</p>
+<p align="left">My name is Vivek and I'm a Data Analyst .<br><br>I'm driven by a desire to keep learning and becoming a little better every day. I enjoy picking up new skills, challenging myself with unfamiliar problems, and building solutions that make work simpler and more effective. For me, growth isn't just about advancing a career it's about continuously evolving as a professional and as a person.</p>
 
 ###
 
@@ -33,10 +33,12 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vivek-kd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         height="45" />
   </a>
   <a href="mailto:vivekkdeore001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         height="45" />
   </a>
 </div>
 
